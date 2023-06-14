@@ -59,6 +59,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+Go to the following Repo to get the Frontend version with React:
+
+<a>https://github.com/chelobotix/hello-react-front-end</a>
+
 To get a local copy up and use as a template, follow these steps.
 
 ### Clone <a name="clone"></a>
@@ -67,6 +71,12 @@ Clone this repository to your desired folder:
 
 ```sh
   https://github.com/chelobotix/hello-rails-back-end.git
+```
+
+Clone the Frontend - React repository to your desired folder:
+
+```sh
+  https://github.com/chelobotix/hello-react-front-end.git
 ```
 
 To install the necessary dependencies, you should run:
